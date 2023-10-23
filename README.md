@@ -2,7 +2,7 @@
 RealESRGAN-GColab is capable of delivering superior and faster results in enhancing image quality within the Google Colab environment, Powered by RealESRGAN.
 
 # Try Now!!
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LmM1OYvzNp1WD3XZgiYcpoH_4MyD9-xT?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fRLDMGibPuVAIfeMA0vEUQQdoh-yS8EE?usp=sharing)
 
 ### Examples
 
