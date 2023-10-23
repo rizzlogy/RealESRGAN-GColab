@@ -9,10 +9,10 @@ Remini-AI is capable of delivering superior and faster results in enhancing imag
 ---
 Low quality image:
 
-<img src="src/input.jpg" alt="" width="500" />
+<img src="https://github.com/rizzlogy/rizzlogy/assets/141845356/5bf6d0b2-5a3a-4120-812e-acd0038c4c5d" alt="" width="500" />
 
 Remini-AI result:
 
-<img src="src/output.jpg" alt="" width="500" />
+<img src="https://github.com/rizzlogy/rizzlogy/assets/141845356/a5627289-c3c9-4a29-aed8-4174f4215e18" alt="" width="500" />
 
 ---
