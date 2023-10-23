@@ -5,7 +5,7 @@ Remini-AI is capable of delivering superior and faster results in enhancing imag
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LmM1OYvzNp1WD3XZgiYcpoH_4MyD9-xT?usp=sharing)
 
 ## Tutorial
-https://github.com/RizzyFuzz/remini-ai/assets/109797310/f01843ff-01d0-43d1-b937-a2daae1ebd13
+https://github.com/rizzlogy/rizzlogy/assets/141845356/b49f7eae-0d05-4a63-8feb-be0b31695764
 
 ### Examples
 
